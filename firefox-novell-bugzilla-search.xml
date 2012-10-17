@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Novell Bugzilla Bug Look-up</ShortName>
+  <ShortName>Novell Bugzilla</ShortName>
   <Description>Look-up bugs by their bug-number in the Novell Bugzilla instance</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://bugzilla.novell.com/favicon.ico</Image>
